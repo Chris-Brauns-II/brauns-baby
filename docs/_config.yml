@@ -32,7 +32,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: bay_jekyll_theme
+header:
+  pages:
+footer:
+  contact:
+  follow:
 plugins:
   - jekyll-feed
 

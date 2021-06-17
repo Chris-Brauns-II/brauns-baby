@@ -1,6 +1,18 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+profile_picture:
+  src: /assets/img/profile-pic.jpg
+  alt: website picture
 ---
+
+<p>
+  Meredith and Christopher are expecting a Baby!
+</p>
+
+<p>
+  We are registered at
+  <ul>
+    <li><a href="https://www.makepriorities.com">Amazon</a></li>
+    <li><a href="https://www.makepriorities.com">Target</a></li>
+  </ul>
+</p>
